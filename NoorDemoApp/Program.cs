@@ -12,5 +12,9 @@ namespace NoorDemoApp
         {
             Console.WriteLine("Demo");
         }
+        public void Hero()
+        {
+            Console.WriteLine("Hero");
+        }
     }
 }
